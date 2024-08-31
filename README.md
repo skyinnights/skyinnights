@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @skyinnights (Please call me Sky)
-- 👀 I’m interested in everything, I'm a big geek and nerd. Also obsessed with fantasy and coding is the closest thing to magic.
-- 🌱 I’m currently learning all the new ways we can make code smoother and flexible.
+- 👀 I’m interested in everything, I'm a big geek and nerd. Also obsessed with fantasy, and coding is the closest thing to magic.
+- 🌱 I’m currently learning all the new ways to make code smoother and more flexible.
 - 💞️ I’m looking to collaborate on fun projects and ideas.
 - 📫 How to reach me: Shout out into the void.
 - 😄 Pronouns: any
